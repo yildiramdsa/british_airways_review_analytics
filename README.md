@@ -6,4 +6,4 @@ The **British Airways Review Analytics Dashboard** provides a comprehensive ov
 
 ![British Airways Review Analytics](https://github.com/yildiramdsa/british_airways_review_analytics/blob/main/british_airways_review_analytics_dashboard.png)
 
-https://public.tableau.com/app/profile/alina.yildir/viz/BritishAirwaysReviewAnalytics/british_airways_review_analytics
+https://public.tableau.com/app/profile/alina.yildir/viz/BritishAirwaysCustomerReviewAnalysis_17396884380200/british_airways_review_analytics
